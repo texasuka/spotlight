@@ -3,9 +3,9 @@ import { HomepageBanner, HomepageCallout } from 'gatsby-theme-carbon';
 import HomepageTemplate from 'gatsby-theme-carbon/src/templates/Homepage';
 import { calloutLink } from './Homepage.module.scss';
 
-import Carbon from '../../images/carbon.jpg';
+import Carbon from '../../images/uka.png';
 
-const FirstLeftText = () => <p>Callout component</p>;
+const FirstLeftText = () => <p>What are spotlights?</p>;
 
 const FirstRightText = () => (
   <p>
@@ -18,26 +18,25 @@ const FirstRightText = () => (
     <a
       className={calloutLink}
       href="https://github.com/carbon-design-system/gatsby-theme-carbon/blob/master/packages/example/src/gatsby-theme-carbon/templates/Homepage.js">
-      Homepage source →
+      UKA Homepage →
     </a>
   </p>
 );
 
-const SecondLeftText = () => <p>Callout component</p>;
+const SecondLeftText = () => <p>Want to feature with us?</p>;
 
 const SecondRightText = () => (
   <p>
-    You can also not use these components at all by not providing the callout
-    props to the template or writing your own template.
+    If you want to feature in one of our interviews or join our spotlight team, email us below!
     <a
       className={calloutLink}
-      href="https://github.com/carbon-design-system/gatsby-theme-carbon/blob/master/packages/example/src/gatsby-theme-carbon/templates/Homepage.js">
-      Homepage source →
+      href="mailto:admin@texasuka.org">
+      Send an email →
     </a>
   </p>
 );
 
-const BannerText = () => <h1>Carbon Gatsby theme</h1>;
+const BannerText = () => <h1>UKA Spotlights</h1>;
 
 const customProps = {
   Banner: <HomepageBanner renderText={BannerText} image={Carbon} />,
