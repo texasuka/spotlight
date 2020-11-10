@@ -3,19 +3,19 @@
     - title: Overview
       path: /overview
 - title: Spring 2020
-      pages:
-        - title: Phillp Kim
-          path: /spotlights/phillip
-        - title: Seungchul Yeom
-          path: /spotlights/seungchul
+  pages:
+    - title: Phillp Kim
+      path: /spotlights/phillip
+    - title: Seungchul Yeom
+      path: /spotlights/seungchul
 - title: Fall 2020
-      pages:
-        - title: Rosa Lee
-          path: /spotlights/rosa
-        - title: Jeongmin Park
-          path: /spotlights/jeongmin
-        - title: Inyoung and Eon
-          path: /spotlights/inyoungeon
+  pages:
+    - title: Rosa Lee
+      path: /spotlights/rosa
+    - title: Jeongmin Park
+      path: /spotlights/jeongmin
+    - title: Inyoung and Eon
+      path: /spotlights/inyoungeon
 # - title: Demo
 #   pages:
 #     - path: /demo
