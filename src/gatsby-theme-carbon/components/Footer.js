@@ -7,7 +7,7 @@ const Content = ({ buildTime }) => (
       Copyright &copy; 2020 - {buildTime}
     </p>
     <p>
-    Made with <code>&hearts;</code> by Taehyoung Kim, built on <code>gatsby.js</code>
+    Made with <code>&hearts;</code> by UKA Informatics, built on <code>gatsby.js</code>
     </p>
   </>
 );

@@ -13,11 +13,11 @@ const FirstRightText = () => (
     <a href="https://texasuka.org">
      Undergraduate Korean Association's
     </a> spotlight project, {' '}
-    <code>bi-monthly</code> interviews of 
+    <code>bi-monthly</code> interviews of {' '}
     <code>UT Austin students</code>{' '}.
     <a
       className={calloutLink}
-      href="https://github.com/carbon-design-system/gatsby-theme-carbon/blob/master/packages/example/src/gatsby-theme-carbon/templates/Homepage.js">
+      href="https://texasuka.org">
       UKA Homepage →
     </a>
   </p>
@@ -27,7 +27,7 @@ const SecondLeftText = () => <p>Want to feature with us?</p>;
 
 const SecondRightText = () => (
   <p>
-    If you want to feature in one of our interviews or join our spotlight team, email us below!
+    If you want to feature in one of our interviews, email us below!
     <a
       className={calloutLink}
       href="mailto:admin@texasuka.org">
