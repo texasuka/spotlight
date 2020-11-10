@@ -13,7 +13,7 @@ const FirstRightText = () => (
     <a href="https://texasuka.org">
      Undergraduate Korean Association's
     </a> spotlight project, {' '}
-    <code>bi-monthly</code> interviews of {' '}
+    a series of <br/><code> bi-monthly</code> interviews with {' '}
     <code>UT Austin students</code>{' '}.
     <a
       className={calloutLink}
