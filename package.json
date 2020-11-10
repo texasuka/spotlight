@@ -9,7 +9,8 @@
     "build": "gatsby build",
     "build:clean": "yarn clean && gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "start": "serve -s build -l 8080"
   },
   "dependencies": {
     "@carbon/icons-react": "10.3.0",

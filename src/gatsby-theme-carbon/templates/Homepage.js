@@ -9,12 +9,12 @@ const FirstLeftText = () => <p>What are spotlights?</p>;
 
 const FirstRightText = () => (
   <p>
-    This is a callout component. You can edit the contents by updating the{' '}
-    <a href="https://github.com/carbon-design-system/gatsby-theme-carbon/blob/5fe12de31bb19fbfa2cab7c69cd942f55aa06f79/packages/example/src/gatsby-theme-carbon/templates/Homepage.js">
-      pre-shadowed homepage template
-    </a>
-    . You can also provide <code>color</code> and <code>backgroundColor</code>{' '}
-    props to suit your theme.
+    This webpage is made by {' '} 
+    <a href="https://texasuka.org">
+     Undergraduate Korean Association's
+    </a> spotlight project, {' '}
+    <code>bi-monthly</code> interviews of 
+    <code>UT Austin students</code>{' '}.
     <a
       className={calloutLink}
       href="https://github.com/carbon-design-system/gatsby-theme-carbon/blob/master/packages/example/src/gatsby-theme-carbon/templates/Homepage.js">
