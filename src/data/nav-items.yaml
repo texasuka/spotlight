@@ -18,6 +18,12 @@
       path: /spotlights/inyoungeon
     - title: New Committee Members
       path: /spotlights/new-directors
+- title: Spring 2021
+  pages:
+    - title: Jae-hun
+      path: /spotlights/jaehun
+    - title: Coming Next
+      path: /spotlights/next
 # - title: Demo
 #   pages:
 #     - path: /demo
